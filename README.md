@@ -85,7 +85,7 @@ The following preprocessing steps were performed:
 - Created a new `TotalAmount` feature
 
 ```text
-TotalAmount = Quantity × UnitPrice
+TotalAmount = Quantity × UnitPrice````
 
 ## 📸 Outputs
 
