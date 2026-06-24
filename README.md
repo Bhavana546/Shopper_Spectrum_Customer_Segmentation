@@ -83,9 +83,9 @@ The following preprocessing steps were performed:
 - Removed transactions with zero or negative unit price
 - Converted `InvoiceDate` into datetime format
 - Created a new `TotalAmount` feature
-
 ```text
-TotalAmount = Quantity × UnitPrice````
+TotalAmount = Quantity × UnitPrice
+```
 
 ## 📸 Outputs
 
@@ -94,5 +94,3 @@ TotalAmount = Quantity × UnitPrice````
 ![Product Recommendations](screenshots/Screenshot%202026-06-24%20220520.png)
 
 ![Customer Segmentation](screenshots/Screenshot%202026-06-24%20220532.png)
-
-
