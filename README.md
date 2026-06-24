@@ -87,18 +87,12 @@ The following preprocessing steps were performed:
 ```text
 TotalAmount = Quantity × UnitPrice
 
-<h2>📸 Outputs</h2>
+## 📸 Outputs
 
-<p>
-  <img src="https://github.com/user-attachments/assets/c23a6f52-2662-4029-bcee-7f3de43050b0" alt="Home Page" width="900">
-</p>
+![Home Page](screenshots/Screenshot%202026-06-24%20220456.png)
 
-<p>
-  <img src="https://github.com/user-attachments/assets/2847143e-e5f3-4f92-9e07-3d4092978497" alt="Product Recommendations" width="900">
-</p>
+![Product Recommendations](screenshots/Screenshot%202026-06-24%20220520.png)
 
-<p>
-  <img src="https://github.com/user-attachments/assets/453a043c-f779-4ca6-a9c1-d06e67d6b5d1" alt="Customer Segmentation" width="900">
-</p>
+![Customer Segmentation](screenshots/Screenshot%202026-06-24%20220532.png)
 
 
