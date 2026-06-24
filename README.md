@@ -86,3 +86,12 @@ The following preprocessing steps were performed:
 
 ```text
 TotalAmount = Quantity × UnitPrice
+
+**### Outputs**
+
+<img width="1882" height="868" alt="Screenshot 2026-06-24 220456" src="https://github.com/user-attachments/assets/c23a6f52-2662-4029-bcee-7f3de43050b0" />
+
+<img width="1890" height="862" alt="Screenshot 2026-06-24 220532" src="https://github.com/user-attachments/assets/2847143e-e5f3-4f92-9e07-3d4092978497" />
+
+<img width="1871" height="861" alt="Screenshot 2026-06-24 220520" src="https://github.com/user-attachments/assets/453a043c-f779-4ca6-a9c1-d06e67d6b5d1" />
+
